@@ -1,0 +1,3367 @@
+title: Roxas_Mod_Chain_For_Multi-5
+originalAuthor: Tieulink, Napstio, Mikote, Soraiko, Gemini
+description: Add Multi-5 support to the Chain proof version of the Roxas Mod (needs the Multi-5 mod, Roxas_Mod_3.0, Roxas_Mod_Chain_Proof and Roxas_Mod_Multi-5 to work)
+game: kh2
+specifications: 0
+dependencies: 
+assets:
+- name: obj\P_EX101_SIDECAR.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\P_EX101_SIDECAR.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\P_EX102_SIDECAR.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\P_EX102_SIDECAR.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\P_EX103_SIDECAR.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\P_EX103_SIDECAR.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\P_EX104_SIDECAR.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\P_EX104_SIDECAR.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\P_EX105_SIDECAR.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\P_EX105_SIDECAR.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO16_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO16_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO17_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO17_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO18_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO18_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO26_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO26_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO27_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO27_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO28_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO28_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO36_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO36_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO37_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO37_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO38_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO38_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO46_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO46_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO47_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO47_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO48_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO48_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO56_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO56_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO57_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO57_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\PO58_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\PO58_PLAYER.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX101_SIDECAR.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX101_SIDECAR.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX101_SIDECAR.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX101_SIDECAR.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX101_SIDECAR.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX101_SIDECAR.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX101_SIDECAR.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX101_SIDECAR.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX101_SIDECAR.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX101_SIDECAR.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX101_SIDECAR.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX101_SIDECAR.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX102_SIDECAR.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX102_SIDECAR.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX102_SIDECAR.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX102_SIDECAR.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX102_SIDECAR.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX102_SIDECAR.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX102_SIDECAR.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX102_SIDECAR.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX102_SIDECAR.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX102_SIDECAR.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX102_SIDECAR.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX102_SIDECAR.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX103_SIDECAR.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX103_SIDECAR.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX103_SIDECAR.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX103_SIDECAR.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX103_SIDECAR.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX103_SIDECAR.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX103_SIDECAR.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX103_SIDECAR.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX103_SIDECAR.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX103_SIDECAR.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX103_SIDECAR.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX103_SIDECAR.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX104_SIDECAR.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX104_SIDECAR.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX104_SIDECAR.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX104_SIDECAR.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX104_SIDECAR.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX104_SIDECAR.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX104_SIDECAR.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX104_SIDECAR.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX104_SIDECAR.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX104_SIDECAR.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX104_SIDECAR.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX104_SIDECAR.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX105_SIDECAR.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX105_SIDECAR.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX105_SIDECAR.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX105_SIDECAR.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX105_SIDECAR.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX105_SIDECAR.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX105_SIDECAR.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX105_SIDECAR.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX105_SIDECAR.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX105_SIDECAR.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX105_SIDECAR.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX105_SIDECAR.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO16_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO16_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO16_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO16_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO16_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO16_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO16_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO16_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO16_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO16_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO16_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO16_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO17_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO17_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO17_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO17_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO17_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO17_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO17_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO17_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO17_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO17_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO17_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO17_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO18_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO18_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO18_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO18_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO18_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO18_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO18_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO18_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO18_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO18_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO18_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO18_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO26_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO26_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO26_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO26_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO26_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO26_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO26_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO26_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO26_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO26_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO26_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO26_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO27_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO27_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO27_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO27_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO27_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO27_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO27_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO27_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO27_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO27_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO27_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO27_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO28_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO28_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO28_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO28_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO28_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO28_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO28_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO28_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO28_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO28_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO28_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO28_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO36_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO36_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO36_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO36_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO36_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO36_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO36_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO36_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO36_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO36_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO36_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO36_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO37_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO37_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO37_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO37_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO37_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO37_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO37_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO37_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO37_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO37_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO37_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO37_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO38_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO38_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO38_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO38_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO38_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO38_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO38_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO38_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO38_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO38_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO38_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO38_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO46_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO46_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO46_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO46_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO46_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO46_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO46_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO46_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO46_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO46_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO46_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO46_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO47_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO47_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO47_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO47_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO47_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO47_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO47_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO47_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO47_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO47_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO47_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO47_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO48_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO48_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO48_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO48_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO48_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO48_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO48_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO48_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO48_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO48_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO48_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO48_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO56_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO56_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO56_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO56_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO56_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO56_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO56_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO56_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO56_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO56_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO56_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO56_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO57_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO57_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO57_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO57_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO57_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO57_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO57_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO57_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO57_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO57_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO57_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO57_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO58_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO58_PLAYER.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO58_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO58_PLAYER.mdlx\-1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO58_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO58_PLAYER.mdlx\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO58_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO58_PLAYER.mdlx\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO58_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO58_PLAYER.mdlx\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\PO58_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\PO58_PLAYER.mdlx\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
